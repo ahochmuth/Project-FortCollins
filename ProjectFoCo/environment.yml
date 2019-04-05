@@ -1,4 +1,4 @@
-name: dad
+name: DataViz
 channels:
   - conda-forge
   - defaults
